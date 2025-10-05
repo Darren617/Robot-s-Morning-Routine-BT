@@ -214,8 +214,9 @@ if __name__=="__main__":
     for i in range(10):
         print(f"\n--- TICK #{i + 1} ---")
         print("闹钟响了.....")
-        print(f"第{i}天，Routine：")
+        print("Routine：")
         tree.tick()
         if bb.get(BB_FINISHED) is True:
             continue
+
 
