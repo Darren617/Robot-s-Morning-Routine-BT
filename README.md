@@ -15,4 +15,10 @@ Selector使用：闹钟响之后机器人的选择（起床、继续睡）、检
 - 工作日：返回True   冲咖啡
 - 非工作日：返回False  不冲咖啡
 
-  
+运行截图（今天是星期天）
+<img width="910" height="759" alt="image" src="https://github.com/user-attachments/assets/225c2fb2-6345-4b44-a5ef-18825351f5e6" />
+
+运行录屏
+
+https://github.com/user-attachments/assets/a6d7c9f1-b1ff-4d4b-ad65-0746bdde2ddb
+
